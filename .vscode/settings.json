@@ -1,6 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "c:/Git/example-assistant-cr-process/assistant/."
-    ],
-    "python.terminal.activateEnvironment": false
-}
